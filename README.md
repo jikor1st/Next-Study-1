@@ -1,4 +1,4 @@
-# Next Js 공부용 레파지토리
+# Next Js 공부용 레파지토리 with Typescript
 
 ## Next js 에러 핸들링 공부
 

@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Testing unchanged 1`] = `
+<div>
+  <div>
+    <p>
+      테스팅 페이지
+    </p>
+  </div>
+</div>
+`;
